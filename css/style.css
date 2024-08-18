@@ -205,9 +205,6 @@ section {
 
 .section-team {
     margin-top: 68.8px;
-}
-
-.section-team {
     padding-top: 66px;
 }
 
@@ -288,11 +285,6 @@ section {
 .section-team .team-digits .digit > div:last-child {
     line-height: var(--lh-140);
     text-align: center;
-}
-
-
-.section-stategy {
-    /* margin-top: 106px; */
 }
 
 .section-stategy .container {
@@ -596,7 +588,6 @@ section {
 .animated-button.expanded.box-wrap {
     width: 400px;
     height: 150px;
-    /* border-radius: 80px; */
     left: 50%;
     transform: translateX(-50%); 
 }
